@@ -3,4 +3,4 @@ Official repository of QuadraNet: QuadraNet: Improving High-Order Neural Interac
 
 Our code is based on [timm](https://github.com/rwightman/pytorch-image-models), [ConvNeXt](https://github.com/facebookresearch/ConvNeXt), and[HorNet](https://github.com/raoyongming/HorNet).
 
-More code will be released after paper acceptance.
+More code and models will be released after paper acceptance.
